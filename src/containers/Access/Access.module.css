@@ -1,0 +1,16 @@
+.Access {
+  margin: 150px 100px;
+}
+.Img {
+  margin-top: 100px;
+  width: 65%;
+}
+
+@media (max-width: 1028px) {
+  .Access {
+    margin: 150px 25px;
+  }
+  .Img {
+    width: 100%;
+  }
+}
