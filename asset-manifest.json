@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Clipboard-Landing-WebApp/static/css/main.4e8f66a5.chunk.css",
+    "main.js": "/Clipboard-Landing-WebApp/static/js/main.8bdcab60.chunk.js",
+    "main.js.map": "/Clipboard-Landing-WebApp/static/js/main.8bdcab60.chunk.js.map",
+    "runtime-main.js": "/Clipboard-Landing-WebApp/static/js/runtime-main.a574ccbf.js",
+    "runtime-main.js.map": "/Clipboard-Landing-WebApp/static/js/runtime-main.a574ccbf.js.map",
+    "static/js/2.f25ba58e.chunk.js": "/Clipboard-Landing-WebApp/static/js/2.f25ba58e.chunk.js",
+    "static/js/2.f25ba58e.chunk.js.map": "/Clipboard-Landing-WebApp/static/js/2.f25ba58e.chunk.js.map",
+    "static/js/3.aa6adade.chunk.js": "/Clipboard-Landing-WebApp/static/js/3.aa6adade.chunk.js",
+    "static/js/3.aa6adade.chunk.js.map": "/Clipboard-Landing-WebApp/static/js/3.aa6adade.chunk.js.map",
+    "index.html": "/Clipboard-Landing-WebApp/index.html",
+    "static/css/main.4e8f66a5.chunk.css.map": "/Clipboard-Landing-WebApp/static/css/main.4e8f66a5.chunk.css.map",
+    "static/js/2.f25ba58e.chunk.js.LICENSE.txt": "/Clipboard-Landing-WebApp/static/js/2.f25ba58e.chunk.js.LICENSE.txt",
+    "static/media/ClipBoard.module.css": "/Clipboard-Landing-WebApp/static/media/bg-header-mobile.611a5565.png",
+    "static/media/icon-blacklist.00461066.svg": "/Clipboard-Landing-WebApp/static/media/icon-blacklist.00461066.svg",
+    "static/media/icon-facebook.7e5a10f0.svg": "/Clipboard-Landing-WebApp/static/media/icon-facebook.7e5a10f0.svg",
+    "static/media/icon-instagram.6916c290.svg": "/Clipboard-Landing-WebApp/static/media/icon-instagram.6916c290.svg",
+    "static/media/icon-preview.9d260cdc.svg": "/Clipboard-Landing-WebApp/static/media/icon-preview.9d260cdc.svg",
+    "static/media/icon-text.72e88c25.svg": "/Clipboard-Landing-WebApp/static/media/icon-text.72e88c25.svg",
+    "static/media/icon-twitter.09334153.svg": "/Clipboard-Landing-WebApp/static/media/icon-twitter.09334153.svg",
+    "static/media/image-computer.65db67db.png": "/Clipboard-Landing-WebApp/static/media/image-computer.65db67db.png",
+    "static/media/image-devices.7a9f9335.png": "/Clipboard-Landing-WebApp/static/media/image-devices.7a9f9335.png",
+    "static/media/logo.99709bee.svg": "/Clipboard-Landing-WebApp/static/media/logo.99709bee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a574ccbf.js",
+    "static/js/2.f25ba58e.chunk.js",
+    "static/css/main.4e8f66a5.chunk.css",
+    "static/js/main.8bdcab60.chunk.js"
+  ]
+}
