@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Clipboard-Landing-WebApp/static/css/main.b4484766.chunk.css",
-    "main.js": "/Clipboard-Landing-WebApp/static/js/main.df676cb3.chunk.js",
-    "main.js.map": "/Clipboard-Landing-WebApp/static/js/main.df676cb3.chunk.js.map",
+    "main.css": "/Clipboard-Landing-WebApp/static/css/main.b5eb8e31.chunk.css",
+    "main.js": "/Clipboard-Landing-WebApp/static/js/main.4f51e206.chunk.js",
+    "main.js.map": "/Clipboard-Landing-WebApp/static/js/main.4f51e206.chunk.js.map",
     "runtime-main.js": "/Clipboard-Landing-WebApp/static/js/runtime-main.77d76245.js",
     "runtime-main.js.map": "/Clipboard-Landing-WebApp/static/js/runtime-main.77d76245.js.map",
     "static/js/2.dd8001a1.chunk.js": "/Clipboard-Landing-WebApp/static/js/2.dd8001a1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1aec5937.chunk.js": "/Clipboard-Landing-WebApp/static/js/3.1aec5937.chunk.js",
     "static/js/3.1aec5937.chunk.js.map": "/Clipboard-Landing-WebApp/static/js/3.1aec5937.chunk.js.map",
     "index.html": "/Clipboard-Landing-WebApp/index.html",
-    "static/css/main.b4484766.chunk.css.map": "/Clipboard-Landing-WebApp/static/css/main.b4484766.chunk.css.map",
+    "static/css/main.b5eb8e31.chunk.css.map": "/Clipboard-Landing-WebApp/static/css/main.b5eb8e31.chunk.css.map",
     "static/js/2.dd8001a1.chunk.js.LICENSE.txt": "/Clipboard-Landing-WebApp/static/js/2.dd8001a1.chunk.js.LICENSE.txt",
     "static/media/ClipBoard.css": "/Clipboard-Landing-WebApp/static/media/bg-header-mobile.611a5565.png",
     "static/media/icon-blacklist.00461066.svg": "/Clipboard-Landing-WebApp/static/media/icon-blacklist.00461066.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.77d76245.js",
     "static/js/2.dd8001a1.chunk.js",
-    "static/css/main.b4484766.chunk.css",
-    "static/js/main.df676cb3.chunk.js"
+    "static/css/main.b5eb8e31.chunk.css",
+    "static/js/main.4f51e206.chunk.js"
   ]
 }
