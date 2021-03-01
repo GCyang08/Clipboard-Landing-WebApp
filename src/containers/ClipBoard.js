@@ -1,18 +1,17 @@
 import React from "react";
-import classes from "./ClipBoard.module.css";
-import Logo from "../assets/logo.svg";
-import Buttons from "./Buttons/Buttons";
-import Desktop from "./Desktop/Desktop";
-import Access from "./Access/Access";
-import Workflow from "./Workflow/Workflow";
-import Testimonials from "./Testimonials/Testimonials";
-import Downloads from "./Downloads/Downloads";
-import Footer from "./Footer/Footer";
+import "./ClipBoard.css";
+
+import Desktop from "../components/Desktop/Desktop";
+import Access from "../components/Access/Access";
+import Workflow from "../components/Workflow/Workflow";
+import Testimonials from "../components/Testimonials/Testimonials";
+import Downloads from "../components/Downloads/Downloads";
+import Footer from "../components/Footer/Footer";
 
 function ClipBoard() {
   return (
-    <div className={classes.Topimg}>
-      <div className={classes.Margin}>
+    <div className="Topimg">
+      {/* <div className={classes.Margin}>
         <img className={classes.Logo} src={Logo} alt="logo" />
         <h1>A History of Everything you Copy</h1>
         <p>
@@ -26,7 +25,7 @@ function ClipBoard() {
           can access your snippets immediately on all your devices. Our Mac and
           iOS apps will help you organize everything.
         </p>
-      </div>
+      </div> */}
       <Desktop />
       <Access />
       <Workflow />
