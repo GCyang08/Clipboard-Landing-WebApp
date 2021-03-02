@@ -1,18 +1,8 @@
-h2 {
-  font-size: 30px;
-  margin-top: 100px;
-}
 .Topimg {
   background-image: url("../assets/bg-header-desktop.png");
   background-repeat: no-repeat;
   background-size: 100% 15%;
   text-align: center;
-}
-.Logo {
-  margin: 150px auto 25px;
-}
-.Margin {
-  margin: 0 100px;
 }
 
 @media (max-width: 1028px) {
@@ -20,8 +10,5 @@ h2 {
     background-image: url("../assets/bg-header-mobile.png");
     background-repeat: no-repeat;
     background-size: 100% 15%;
-  }
-  .Margin {
-    margin: 0 50px;
   }
 }

@@ -1,0 +1,33 @@
+.Desktop {
+  margin: 200px auto;
+}
+.HeaderLayout {
+  margin: 0 250px;
+}
+.DesktopLayout {
+  display: flex;
+  margin: 100px auto;
+  text-align: left;
+}
+.DesktopLayout img {
+  position: relative;
+  left: -50px;
+  width: 50%;
+}
+.DesktopLayout div {
+  margin: 25px 10px;
+}
+
+@media (max-width: 1028px) {
+  .Desktop img {
+    position: static;
+    width: 75%;
+  }
+  .HeaderLayout {
+    margin: 0 25px;
+  }
+  .DesktopLayout {
+    display: block;
+    text-align: center;
+  }
+}

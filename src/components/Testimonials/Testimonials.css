@@ -1,0 +1,13 @@
+.Testimonials {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 100px 25px;
+}
+.TestimonialsImg img {
+  margin: 25px;
+}
+@media (min-width: 260px) and (max-width: 1280px) {
+  .Testimonials {
+    display: block;
+  }
+}
