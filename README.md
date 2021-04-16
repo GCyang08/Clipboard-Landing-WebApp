@@ -8,6 +8,16 @@
     . React
     . Material UI
     
+ ## How I Created This Project - 
+This project was coded from scratch. This was a straightforward React application. I used CSS and flexbox to create the layout of my page and make it so it was responsive. Without having to re-write my code, I stored relevant data in an array of objects and used the method map() array to loop over the data and display it onto the application so that my code are clean and efficient.
+ 
+ 
+ ## Overview -
+ This project is on Front End Mentor. For this project the users should be able to:
+ 
+    . View the Optimal layout for this site depending on their device's screen size
+    . See hover states for all interactive elements on the page.
+    
 
 ## Available Scripts
 
